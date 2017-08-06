@@ -7,10 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.13.3"
-  },
-  "engines": {
-    "node": "4.0.0"
+    "express": "^4.15.3"
   },
   "repository": {
     "type": "git",
@@ -18,7 +15,6 @@
   },
   "keywords": [
     "node",
-    "heroku",
     "express"
   ],
   "author": "Mark Pundsack",
